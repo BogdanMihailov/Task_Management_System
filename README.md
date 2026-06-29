@@ -73,11 +73,11 @@ docker compose up --build
 
 ### IMAP inbox screen displays all incoming emails retrieved using the IMAP protocol.
 
-![IMAP_Inbox Screen](images/IMAP_Inbox.png)
+![IMAP Inbox Screen](images/IMAP_Inbox.png)
 
 ### POP3 inbox screen displays all incoming emails retrieved using the POP3 protocol.
 
-![POP3_Inbox Screen](images/POP3_Inbox.png)
+![POP3 Inbox Screen](images/POP3_Inbox.png)
 
 ## 🎯 Learning Outcomes
 
