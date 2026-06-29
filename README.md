@@ -55,18 +55,6 @@ flowchart LR
     API --> MAIL[Email Service]
 ```
 
-## 📂 Project Structure
-
-```text
-.
-├── .github/
-├── images/
-├── client/
-├── server/
-├── docker-compose.yml
-└── README.md
-```
-
 ## 🚀 Quick Start
 
 ```bash
